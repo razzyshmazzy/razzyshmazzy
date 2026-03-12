@@ -1,4 +1,4 @@
-# fav stuff
+## fav stuff
 movie: nacho libre
 
 show: lucky star
@@ -10,3 +10,5 @@ language: c
 person: terry a davis
 
 word: antidisestablishmentarianism
+
+(p.s. I LOVE FATE TYPE MOON)
