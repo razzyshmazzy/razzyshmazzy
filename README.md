@@ -1,3 +1,8 @@
+hi! i'm razzy (or nyarl, depends on site)
+
+my personal site's https://www.razzyshmazzy.com
+& my discord tag is the same as my github name!
+
 ## fav stuff
 movie: nacho libre
 
